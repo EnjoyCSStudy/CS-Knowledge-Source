@@ -1,0 +1,1 @@
+![6장-1 Proxy](https://github.com/EnjoyCSStudy/CS-Knowledge-Source/assets/95271588/277a7c62-9b13-4e07-8e3a-a229cb7b0984)
